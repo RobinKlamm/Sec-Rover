@@ -1,0 +1,27 @@
+Sec-Rover
+
+Bewegung:
+
+Soll durch Räumen fahren ohne gegen Hindernisse zu stoßen.
+Soll sich auf eine Stelle drehen und Kurven fahren können.
+Soll Hindernissen ausweichen können.
+
+(Kartierungsfunktion unsicher)
+
+
+Wahrnehmung:
+
+Soll Mittels Sensorik Hindernisse erkennen um den Raum zu befahren. Diese müssen 360° angebracht werden. (IR, Ultraschall, Radar, etc....)
+Soll Mittels Sensorik Bewegungen erkennen können, während der Fahrt und auf grunde von Befehlen mit diesen umgehen. (Kamera, Fischauge etc...)
+Ein Lautsprecher und ein Mikrofon um verbale Befehle aufzunehmen und Signale akustisch wiederzugeben.
+Befehle:
+-Suche (Andere Personen auffinden)
+-Sichern (Umgebung bewachen stationär und alarm geben bei entdecken von personen)
+-Beenden
+
+
+
+Funktionen:
+
+Soll sich mit dem W-Lan Netzwerk verbinden können und von einem PC aus beobachtet werden.
+Soll mittels eines Drehkranz und eines Laserpointers Personen markieren.
