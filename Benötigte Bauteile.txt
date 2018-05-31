@@ -1,16 +1,16 @@
-4x Abstandshalter
-8x M3 oder M4 schrauben
+4x Abstandshalter min. 20mm abstand
+8x M3 schrauben
 
-Durchmesser großes Loch 9,75 mm
-Außenabstand äußere löcher 56,4 mm
-3,75mm innerlöcher durchmesser
-49,56mm außenabstand längs große löcher
+Durchmesser groÃŸes Loch 9,75 mm
+AuÃŸenabstand Ã¤uÃŸere lÃ¶cher 56,4 mm
+3,75mm innerlÃ¶cher durchmesser
+49,56mm auÃŸenabstand lÃ¤ngs groÃŸe lÃ¶cher
 
-200mm länge und 185mm breite
+200mm lÃ¤nge und 185mm breite
 
-Neuftech L298N Dual H-Brücke DC Stepper Motortreiber Schrittmotor Controller Modul für Arduino
+Neuftech L298N Dual H-BrÃ¼cke DC Stepper Motortreiber Schrittmotor Controller Modul fÃ¼r Arduino
 
-Gaoxing Tech. 5PCS 2 Kanal Logik Level Converter 3.3V bis 5V TTL Bidirektionales Modul für Arduino 
+Gaoxing Tech. 5PCS 2 Kanal Logik Level Converter 3.3V bis 5V TTL Bidirektionales Modul fÃ¼r Arduino 
 
 Breadboards
-Steckdose mit USB anschlüssen
+Steckdose mit USB anschlÃ¼ssen
